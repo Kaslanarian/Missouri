@@ -1,0 +1,4 @@
+/model1/build/examples/openpso_python.py
+删除 /model2/candidate.json
+/model1/dataproc/proc.py
+/model2/judger.py 
